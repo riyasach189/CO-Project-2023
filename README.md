@@ -1,4 +1,4 @@
-# CSE112 - Semester Project
+# CSE112 - Semester Project Winter 2023
 CSE112 - Computer Organisation
 
 Objective: To create a basic assembler and simulator
